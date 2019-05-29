@@ -1,6 +1,6 @@
 {
   "name": "nuxt-bs-example",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Example repo to reproduce integration issue",
   "author": "Michael Marcenich",
   "private": true,
