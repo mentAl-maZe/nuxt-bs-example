@@ -1,4 +1,4 @@
-# nuxt-laravel-booking-suedtirol-example
+# nuxt-bs-example
 
 > Example repo to reproduce integration issue
 
